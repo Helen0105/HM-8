@@ -1,0 +1,15 @@
+h3:nth-child(1){
+    color: rgb(245, 138, 156);
+}
+#greycol{
+    color:rgb(87, 86, 86)
+}
+div > div + div > p{
+    color: red;
+}
+.text-box > div + div + h3 + p{
+    color: rgb(8, 114, 8);
+}
+.yellow{
+    color: rgb(252, 252, 5);
+}
